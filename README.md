@@ -20,7 +20,7 @@ A Maratona Behind the Code é uma iniciativa digital que visa capacitar e aproxi
 ## Desafio 2 | UNINASSAU    
 
 
-**Cloud Pak for Data | Machine Learning** | Criar um modelo baseado em machine learning, capaz de identificar as principais deficiências do aluno, permitindo a realização de uma mentoria estudantil personalizada. Dado um conjunto de dados sintético fornecido o objetivo do algoritmo é identificar o perfil de cada estudante.
+**IBM Cloud Pak for Data + Jupyter Notebook** | Criar um modelo baseado em machine learning, capaz de identificar as principais deficiências do aluno, permitindo a realização de uma mentoria estudantil personalizada. Dado um conjunto de dados sintético fornecido o objetivo do algoritmo é identificar o perfil de cada estudante.
 
 
 :star: --°   
@@ -62,7 +62,7 @@ A Maratona Behind the Code é uma iniciativa digital que visa capacitar e aproxi
 ## Desafio 6 | LIT    
  
  
-**Jupyter notebook** | Criar um modelo de aprendizado de máquina capaz, com base nas variáveis fornecidas no dataset, identificar o que define o perfil de cada aluno para poder poder indicar quais são os cursos ideais, de acordo com as competências que eles precisam desenvolver para a sua carreira. 
+**IBM Cloud Pak for Data + Jupyter Notebook** | Criar um modelo de aprendizado de máquina capaz, com base nas variáveis fornecidas no dataset, identificar o que define o perfil de cada aluno para poder poder indicar quais são os cursos ideais, de acordo com as competências que eles precisam desenvolver para a sua carreira. 
 
 
 :star: 53°    
