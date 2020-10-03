@@ -1,13 +1,15 @@
+<img src="https://github.com/priscillapreks/maratona_btc_2020/blob/master/img_top100.JPG" width="250" align="right"/>
+    
+    
 # Maratona Behind the Code 2020
 
 A Maratona Behind the Code é uma iniciativa digital que visa capacitar e aproximar desenvolvedores e entusiastas ao mercado de tecnologia. Através de videoaulas e tutoriais, tenha acesso free e aprenda a usar as tecnologias mais disruptivas do mercado (como Inteligência Artificial, Cloud, Containers e IoT) na nuvem da IBM.     
 
  
-## Ranking Geral :star: **16°** 
+### Ranking Geral :star: **16°** 
 
 :link: [maratona.dev](https://www.maratona.dev/pt)    
     
-
 ---    
 
 
