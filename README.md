@@ -30,7 +30,7 @@ A Maratona Behind the Code é uma iniciativa digital que visa capacitar e aproxi
 **IBM Cloud Pak for Data + Jupyter Notebook** | Criar um modelo baseado em machine learning, capaz de identificar as principais deficiências do aluno, permitindo a realização de uma mentoria estudantil personalizada. Dado um conjunto de dados sintético fornecido o objetivo do algoritmo é identificar o perfil de cada estudante.
 
 
-:star: --°   
+:star: 822°   
 :trophy: [Ranking](https://www.maratona.dev/pt/ranking?c=2)   
 :link: [Desafio 2](https://github.com/maratonadev-br/desafio-2)    
     
@@ -40,7 +40,7 @@ A Maratona Behind the Code é uma iniciativa digital que visa capacitar e aproxi
 
 **Watson Discovery** | criar uma ferramenta capaz de acelerar e dinamizar os processos de aprendizagem, ajudando estudantes a encontrar outras fontes de pesquisa, novos conteúdos, exemplos e modelos para seus estudos. Utilizando linguagem natural a ferramenta será capaz de buscar e sugerir conteúdos alternativos, como vídeos, podcasts, e-books e demais fontes de informações, para que estudantes possam aprofundar seus estudos a partir de indicações de texto do próprio estudante. 
 
-:star: 23°    
+:star: 24°    
 :trophy: [Ranking](https://www.maratona.dev/pt/ranking?c=3)    
 :link: [Desafio 3](https://github.com/maratonadev-br/desafio-3-2020)     
   
@@ -50,7 +50,7 @@ A Maratona Behind the Code é uma iniciativa digital que visa capacitar e aproxi
 **Watson SPSS** | Criar um modelo no Modeler Flow (SPSS) capaz de encontrar o melhor candidato para a organização de acordo com as variáveis do dataset fornecido. O objetivo é modelar os dados de tal forma que o modelo receba como entrada todas as colunas do dataset e forneça como saída a resposta se o candidato deve ser contratado ou não. 
 
 
-:star: 4°    
+:star: 5°    
 :trophy: [Ranking](https://www.maratona.dev/pt/ranking?c=4)    
 :link: [Desafio 4](https://github.com/maratonadev-br/desafio-4-2020)     
 
@@ -61,7 +61,7 @@ A Maratona Behind the Code é uma iniciativa digital que visa capacitar e aproxi
 **Watson Assistant** | Criar um chatbot capaz de indicar qual o caixa eletrônico mais próximo da localização e se o valor solicitado está disponível para saque, bem como se o cliente prefere fazer diretamente em um ATM ou comércio, além de contar com níveis de interação básicos como saudações e finalizações de conversas. 
 
 
-:star: --°    
+:star: 101°    
 :trophy: [Ranking](https://www.maratona.dev/pt/ranking?c=5)    
 :link: [Desafio 5](https://github.com/maratonadev-br/desafio-5-2020)    
     
@@ -97,7 +97,7 @@ A Maratona Behind the Code é uma iniciativa digital que visa capacitar e aproxi
 As falas do motorista deverão ser processadas em áudio e texto, e as entidades textuais pertinentes a identificação de componentes, ou critérios de avaliação dos veículos, deverão ser anotadas por um modelo de IA. Esses serviços serão todos integrados por meio de um framework ou tecnologia de escolha livre pelo participante, que além do modelo treinado também entregará uma API REST como solução. 
 
 
-:star: --°    
+:star: 131°    
 :trophy: [Ranking](https://www.maratona.dev/pt/ranking)    
 :link: [Desafio 8](https://github.com/maratonadev-br/desafio-8-2020)     
 
